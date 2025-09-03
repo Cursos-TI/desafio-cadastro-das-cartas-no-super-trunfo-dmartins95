@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Programa: Cadastro de Cartas do Super Trunfo de Cidades - 02/09/2025
+// Programa: Cadastro de Cartas do Super Trunfo de Cidades - 03/09/2025
 
 int main() {
     // Declaração de variáveis para a Carta 1
